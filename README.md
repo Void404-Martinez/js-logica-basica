@@ -1,4 +1,4 @@
-# 🌐 Fundamentos de JavaScript
+# Fundamentos de JavaScript
 
 ## 📂 CONTEÚDO
 - Variáveis e tipos de dados  
