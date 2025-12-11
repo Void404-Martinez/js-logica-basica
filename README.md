@@ -9,4 +9,10 @@ Aqui você encontrará exercícios, desafios e pequenos scripts que estou desenv
 - Construir pequenas aplicações com JavaScript puro.
 - Criar base para estudar frameworks no futuro.
 
+## 🛠️ Tecnologias utilizadas
+- **JavaScript** (ES6+)
+- **Node.js**
 
+📚 Progresso
+Este repositório será atualizado conforme eu avançar nos estudos.
+Meu foco é praticar bastante para construir uma base sólida em programação.
