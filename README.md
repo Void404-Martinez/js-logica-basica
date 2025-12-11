@@ -9,6 +9,12 @@ Aqui você encontrará exercícios, desafios e pequenos scripts que estou desenv
 - Construir pequenas aplicações com JavaScript puro.
 - Criar base para estudar frameworks no futuro.
 
+## 📁 Estrutura do Repositório
+- `/logica` – exercícios focados em lógica e algoritmos.
+- `/javascript` – scripts simples usando JavaScript.
+- `/desafios` – exercícios extras para praticar mais.
+- `/anotacoes` – resumos e aprendizados importantes.
+
 ## 🛠️ Tecnologias utilizadas
 - **JavaScript** (ES6+)
 - **Node.js**
